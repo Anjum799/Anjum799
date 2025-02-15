@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Seema anjum</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1D11F7&width=500&lines=Hi%2C+this+is+seema+anjum+frontend+developer)](https://git.io/typing-svg)
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
