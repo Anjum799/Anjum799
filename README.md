@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=160ADC&background=36B64A00&width=550&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Seema+Anjum!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=3525DC&background=36B64A00&width=550&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Seema+Anjum!" alt="Typing SVG" /></a>
 <hr> <ul>
   <li>Front-End Developer | Crafting Stunning & Interactive Web Experiences</li>
   <li>Passionate about beautiful UI & seamless UX </li>
